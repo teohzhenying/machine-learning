@@ -1,0 +1,1 @@
+I rewrote some machine learning algorithms - instead of using the sklearn library - for educational purposes and thus, their accuracy cannot be verified. Thanks for being patient! Anbd thanks to any of the dataset contributors.
